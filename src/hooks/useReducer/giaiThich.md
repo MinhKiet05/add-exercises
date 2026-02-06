@@ -1,0 +1,1 @@
+useReducer thường dùng để quản lý state phức tạp. Nó hoạt động theo mô hình: state + action → state mới, sẽ thay đổi state bằng dispatch(action). Nó phù hợp khi có nhiều hành động, logic rõ ràng

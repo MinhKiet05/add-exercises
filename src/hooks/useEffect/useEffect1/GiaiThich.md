@@ -1,0 +1,1 @@
+Khi component được render xong, useEffect sẽ chạy và thực hiện các tác vụ bên trong nó. Nếu không có mảng phụ thuộc thứ hai (dependency array), useEffect sẽ chạy sau mỗi lần render.

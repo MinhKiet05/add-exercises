@@ -1,0 +1,1 @@
+Khi giá trị của biến count thay đổi, useEffect sẽ chạy lại và thực hiện các tác vụ bên trong nó. Điều này cho phép bạn phản ứng với sự thay đổi của state hoặc props một cách hiệu quả.

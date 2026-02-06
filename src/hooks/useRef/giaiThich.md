@@ -1,0 +1,1 @@
+useRef sẽ lưu giá trị không gây re-render. Nó truy cập trực tiếp DOM element. Giá trị nằm trong ref.current. Thường dùng để focus input, lưu biến tạm

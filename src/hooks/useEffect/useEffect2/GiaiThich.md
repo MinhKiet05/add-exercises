@@ -1,0 +1,1 @@
+Sử dụng useEffect với mảng phụ thuộc rỗng sẽ khiến hiệu ứng chỉ chạy một lần duy nhất khi component được render lần đầu tiên.
