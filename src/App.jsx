@@ -8,11 +8,14 @@ import UseReducerExample from './hooks/useReducer/UseReDucer.jsx'
 import UseRefExample from './hooks/useRef/UseRef.jsx'
 import UseMemoExample from './hooks/useMemo/UseMemo.jsx'
 import UseCallbackExample from './hooks/useCallback/UseCallback.jsx'
+import FetchComponent from './workingAPI/fetchComponent/FetchComponent.jsx'
+import AsyncAwaitComponent from './workingAPI/asyncAwaitComponent/AsyncAwaitComponent.jsx'
+import AxiosComponent from './workingAPI/axiosComponent/AxiosComponent.jsx'
 function App() {
 
   return (
     <>
-     <UseCallbackExample></UseCallbackExample>
+     <AxiosComponent></AxiosComponent>
     </>
   )
 }

@@ -1,0 +1,1 @@
+sử dụng await và async để lấy dữ liệu từ một API giả lập và hiển thị kết quả 10 sinh viên trong console. Nhưng cần response.json() để chuyển đổi dữ liệu phản hồi thành định dạng JSON.

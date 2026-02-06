@@ -1,0 +1,1 @@
+Khi dùng axios để lấy dữ liệu từ một API giả lập, ta sử dụng await và async để chờ phản hồi từ API và sau đó hiển thị kết quả 10 sinh viên trong console. Không cần response.json() vì axios tự động chuyển đổi dữ liệu phản hồi thành định dạng JSON.
